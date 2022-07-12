@@ -6,7 +6,7 @@
 <html>
 <body>
       
-<p align="center">I'm a Computer Science & Engineering (CSE) Graduate 🎓 from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology (RUET)<a> 🏛, passionate about Data Science, Machine Learning, Deep Learning and Computer Vision. Also, have experience in Web Development, Android Development and Game Development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.<br>
+<p align="center">I'm a Computer Science & Engineering (CSE) Graduate 🎓 from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology (RUET)<a> 🏛,<br> passionate about Data Science, Machine Learning, Deep Learning and Computer Vision. Also, have experience in Web Development,<br> Android Development and Game Development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.<br>
 <p/>
 <h2 align="center">👨‍💻Skills👨‍💻</h2>
 <p style="display: inline-block;" align="center">
