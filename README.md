@@ -67,7 +67,7 @@
 
 <p style="display: inline-block;" align="center">
 <kbd>
-<kbd>Reach Me Out</kbd>
+<kbd>Reach Out Me</kbd>
 <br>
 <br>
 <a href="mailto:muzdadid@gmail.com"><img height="26px" width="28px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a> 
