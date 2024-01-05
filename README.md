@@ -57,7 +57,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasibAlMuzdadid&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Hasib's GitHub Stats"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HasibAlMuzdadid&layout=compact&theme=gotham">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibAlMuzdadid&layout=compact&langs_count=7&theme=gotham" alt="Hasib's Top Languages"/>
-<img height="295em"  src="https://github-readme-activity-graph.cyclic.app/graph?username=HasibAlMuzdadid&theme=gotham" alt="Hasib's GitHub Activity"/>
+<!-- <img height="295em"  src="https://github-readme-activity-graph.cyclic.app/graph?username=HasibAlMuzdadid&theme=gotham" alt="Hasib's GitHub Activity"/> -->
 </a>
 </div>     
       
