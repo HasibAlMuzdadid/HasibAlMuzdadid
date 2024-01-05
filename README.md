@@ -62,7 +62,7 @@
 </div>     
       
       
-![Snake animation](https://github.com/HasibAlMuzdadid/HasibAlMuzdadid/blob/output/github-contribution-grid-snake.svg)
+
      
 
 <p style="display: inline-block;" align="center">
