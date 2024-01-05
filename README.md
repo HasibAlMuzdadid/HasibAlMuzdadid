@@ -57,7 +57,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HasibAlMuzdadid&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Hasib's GitHub Stats"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HasibAlMuzdadid&layout=compact&theme=gotham">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibAlMuzdadid&layout=compact&langs_count=7&theme=gotham" alt="Hasib's Top Languages"/>
-<!-- <img height="295em"  src="https://github-readme-activity-graph.cyclic.app/graph?username=HasibAlMuzdadid&theme=gotham" alt="Hasib's GitHub Activity"/> -->
 </a>
 </div>     
       
@@ -72,7 +71,8 @@
 <br>
 <a href="mailto:muzdadid@gmail.com"><img height="26px" width="28px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" /></a> 
 <a href="https://www.linkedin.com/in/hasibalmuzdadid/"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://github.com/HasibAlMuzdadid"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>  <a href="https://www.kaggle.com/hasibalmuzdadid"><img width="72px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" /></a> 
+<a href="https://github.com/HasibAlMuzdadid"><img width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /></a>  
+<a href="https://www.kaggle.com/hasibalmuzdadid"><img width="72px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" /></a> 
 <a href="https://www.credly.com/users/hasibalmuzdadid"><img width="56px" src="https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=1500&name=Credly_Logo_Orange_10-Inch.png" /></a>  
 </kbd>
 </p>
