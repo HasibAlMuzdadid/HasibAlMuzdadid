@@ -69,7 +69,7 @@
 <a href="https://www.kaggle.com/hasibalmuzdadid" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Kaggle-%2320beff.svg?style=flat-square&logo=kaggle&logoColor=white&logoWidth=20" /></a>
 <a href="https://www.credly.com/users/hasibalmuzdadid" target="_blank"><img alt="Credly" src="https://img.shields.io/badge/Credly-%23fc720e.svg?style=flat-square&logo=credly&logoColor=white&logoWidth=20" /></a> 
 <a href="https://orcid.org/0009-0003-4122-0616" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-%2388CE02.svg?style=flat-square&logo=orcid&logoColor=white&logoWidth=20" /></a>
-<a href="" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google Scholar-%234285F4.svg?style=flat-square&logo=googlescholar&logoColor=white&logoWidth=20" /></a>
+<a href="https://scholar.google.com/citations?user=6GHNW0sAAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google Scholar-%234285F4.svg?style=flat-square&logo=googlescholar&logoColor=white&logoWidth=20" /></a>
 </p>
 
 
