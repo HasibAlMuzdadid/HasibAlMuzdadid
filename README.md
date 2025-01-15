@@ -2,9 +2,10 @@
       
 <h2 align="left">Hello, This is Hasib!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"><h3 align="left">Data Science , Machine Learning , Deep Learning , Computer Vision Enthusiast</h3></h2>
 
-      
-<p align="left">I'm a Computer Science & Engineering (CSE) Graduate from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology (RUET)<a>, passionate about Data Science, Machine Learning, Deep Learning and Computer Vision. Also, have experience in Web Development, Android Development and Game Development. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbies.<br>
-<p/>
+
+<p align="left">Hasib, a Computer Science Engineer, graduated from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology (RUET)<a>, passionate about Machine Learning, Deep Learning, and Computer Vision. His research interests, guided by the philosophy of crafting timeless ideas, encompass a broad spectrum, primarily focusing on advancements in Computer Vision. Alongside his research pursuits, Hasib has hands-on experience in Web Development, Android Development, and Game Development. As a lifelong learner, he thrives on exploring new technologies and leveraging them to solve real-world problems. Equally, he finds joy in mentoring and guiding aspiring minds, sharing his knowledge to help others grow.<br>
+<p/> 
+
       
 <h3>Stuffs I code with</h3>
 <p>
